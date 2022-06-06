@@ -2,6 +2,8 @@
 .idea/
 *.iml
 *.iws
+# IntelliJ
+out/
 
 # Mac
 .DS_Store
